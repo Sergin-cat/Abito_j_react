@@ -5,7 +5,8 @@ export const cardArray = [
         price: '170 $',
         address: 'Коростень, р-н Березовки',
         date: '10 июля 11:50',
-        img: '/image/pvx-image.jpg'
+        img: '/image/pvx-image.jpg',
+        description: 'Продаю не спеша самокат в хорошем состоянии.'
     },
     {
         id: 1,
@@ -13,7 +14,8 @@ export const cardArray = [
         price: '171 $',
         address: 'Коростень, р-н Березовки',
         date: '10 июля 11:50',
-        img: '/image/pvx-image.jpg'
+        img: '/image/pvx-image.jpg',
+        description: 'Продаю не спеша самокат в хорошем состоянии.'
     },
     {
         id: 2,
@@ -21,7 +23,8 @@ export const cardArray = [
         price: '172 $',
         address: 'Коростень, р-н Березовки',
         date: '10 июля 11:50',
-        img: '/image/pvx-image.jpg'
+        img: '/image/pvx-image.jpg',
+        description: 'Продаю не спеша самокат в хорошем состоянии.'
     },
     {
         id: 3,
@@ -29,7 +32,8 @@ export const cardArray = [
         price: '173 $',
         address: 'Коростень, р-н Березовки',
         date: '10 июля 11:50',
-        img: '/image/pvx-image.jpg'
+        img: '/image/pvx-image.jpg',
+        description: 'Продаю не спеша самокат в хорошем состоянии.'
     },
     {
         id: 4,
@@ -37,7 +41,8 @@ export const cardArray = [
         price: '174 $',
         address: 'Коростень, р-н Березовки',
         date: '10 июля 11:50',
-        img: '/image/pvx-image.jpg'
+        img: '/image/pvx-image.jpg',
+        description: 'Продаю не спеша самокат в хорошем состоянии.'
     },
     {
         id: 5,
@@ -45,6 +50,7 @@ export const cardArray = [
         price: '175 $',
         address: 'Коростень, р-н Березовки',
         date: '10 июля 11:50',
-        img: '/image/pvx-image.jpg'
+        img: '/image/pvx-image.jpg',
+        description: 'Продаю не спеша самокат в хорошем состоянии.'
     }
 ]
